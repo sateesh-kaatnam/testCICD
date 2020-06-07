@@ -1,1 +1,1 @@
-test project for CICD java Hellow world webapp
+test project for CICD java Hello world webapp
